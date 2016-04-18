@@ -1,2 +1,2 @@
 contributors: 
-Mikael
+Mikael, Paul
